@@ -1,59 +1,84 @@
-# Hi there! 👋 I'm Navneet Mishra
+<h1 align="center">Hi 👋, I'm Navneet Mishra</h1>
+<h3 align="center">SAP Technical Consultant | Developer | Problem Solver</h3>
 
-## 👨‍💻 About Me
-
-I’m **Navneet Mishra**, a passionate developer who loves creating and building things that matter.  
-I enjoy working with modern technologies and continuously improving my skills.
-
----
-
-## 🧠 What I Do
-
-- 🌟 Full Stack / Mobile / Web Developer  
-- 🚀 Learning and building cool projects  
-- 💻 Experienced with Flutter, Firebase, APIs  
-- 🔍 Always exploring new technologies  
-- 🤝 Open for collaborations and contributions
+<p align="center">
+  <a href="https://www.linkedin.com/in/navneet-mishra-1b19a427b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Navneet_Mishra-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail">
+  </a>
+</p>
 
 ---
 
-## 🛠️ My Tech Stack
+## 🚀 About Me
 
-### 🌐 Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- 💼 SAP Technical Consultant (ABAP / S/4HANA)
+- 👨‍💻 Passionate about **Enterprise Software & Backend Development**
+- 🧠 Strong in **Logic Building & Debugging**
+- 🌱 Currently learning **Advanced SAP + Modern Web Tech**
+- ⚡ Believe in: *"Clean Code > More Code"*
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Navneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navneetdevmishra&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetdevmishra&layout=compact&theme=radical)
+### 🔹 SAP Technologies
+- SAP ABAP / ABAP OO  
+- SAP S/4HANA  
+- SmartForms & Adobe Forms  
+- ALV Reports  
+- Enhancements, BADI, BAPI  
+- OData & CDS Views  
+
+### 🔹 Programming & Tools
+- Java  
+- C / C++  
+- Python  
+- JavaScript  
+- HTML / CSS  
+
+### 🔹 Databases
+- MySQL  
+- SAP HANA  
+
+### 🔹 Tools & Platforms
+- Git & GitHub  
+- Linux  
+- VS Code  
+- Eclipse  
 
 ---
 
-## 🌟 Featured Repositories
+## 📌 Featured Projects
 
-[![Awesome Project 1](https://github-readme-stats.vercel.app/api/pin/?username=navneetdevmishra&repo=REPO_NAME_1)](https://github.com/navneetdevmishra/REPO_NAME_1)  
-[![Awesome Project 2](https://github-readme-stats.vercel.app/api/pin/?username=navneetdevmishra&repo=REPO_NAME_2)](https://github.com/navneetdevmishra/REPO_NAME_2)  
-[![Awesome Project 3](https://github-readme-stats.vercel.app/api/pin/?username=navneetdevmishra&repo=REPO_NAME_3)](https://github.com/navneetdevmishra/REPO_NAME_3)
+🔹 **SAP ALV Report Automation**  
+🔹 **Custom SAP Report for Business Analytics**  
+🔹 **Backend APIs using Node.js**  
+🔹 **Database-driven Applications**
 
-*(Replace the repo names above with your best ones)*
-
----
-
-## 📫 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/navneet-mishra-1b19a427b/?trk=public-profile-join-page  
-📍 GitHub: https://github.com/navneetdevmishra  
-📧 Email: your_email@example.com
+👉 Check repositories for real-world implementations.
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flutterbuddy1&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flutterbuddy1&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [Navneet Mishra](https://www.linkedin.com/in/navneet-mishra-1b19a427b/)
+- 🧑‍💻 GitHub: https://github.com/flutterbuddy1
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*  
