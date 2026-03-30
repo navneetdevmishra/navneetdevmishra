@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navneet Mishra</h1>
-<h3 align="center">SAP Technical Consultant | Developer | Problem Solver</h3>
+<h3 align="center">| Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/navneet-mishra-1b19a427b/" target="_blank">
@@ -22,15 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-### 🔹 SAP Technologies
-- SAP ABAP / ABAP OO  
-- SAP S/4HANA  
-- SmartForms & Adobe Forms  
-- ALV Reports  
-- Enhancements, BADI, BAPI  
-- OData & CDS Views  
 
 ### 🔹 Programming & Tools
 - Java  
@@ -53,8 +45,7 @@
 
 ## 📌 Featured Projects
 
-🔹 **SAP ALV Report Automation**  
-🔹 **Custom SAP Report for Business Analytics**  
+
 🔹 **Backend APIs using Node.js**  
 🔹 **Database-driven Applications**
 
