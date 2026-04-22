@@ -14,10 +14,7 @@
 
 ## 🚀 About Me
 
-- 💼 SAP Technical Consultant (ABAP / S/4HANA)
-- 👨‍💻 Passionate about **Enterprise Software & Backend Development**
-- 🧠 Strong in **Logic Building & Debugging**
-- 🌱 Currently learning **Advanced SAP + Modern Web Tech**
+
 - ⚡ Believe in: *"Clean Code > More Code"*
 
 ---
