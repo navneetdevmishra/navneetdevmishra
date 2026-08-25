@@ -13,9 +13,6 @@ jobs:
         with:
           github_user_name: navneetdevmishra
           outputs: dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-pages-artifact@v2
-        with:
-          path: dist
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
