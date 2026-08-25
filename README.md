@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NAVNEET&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Java%20Backend%20Developer&descAlignY=60&descSize=22" alt="banner" />
 </h1>
 
+<h3 align="center">
+  🪐 <b><a href="https://navneetdevmishra.github.io/3d-portfolio/" target="_blank">Experience my Interactive 3D Solar System Portfolio! 🚀</a></b>
+</h3>
+
 <p align="center">
   <a href="https://github.com/navneetdevmishra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:navneetbrahamana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
