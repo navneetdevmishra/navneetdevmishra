@@ -42,9 +42,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=navneetdevmishra&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navneetdevmishra&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=navneetdevmishra&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetdevmishra&layout=compact&theme=tokyonight" />
+</p>
+
+<hr>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/navneetdevmishra/navneetdevmishra/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
